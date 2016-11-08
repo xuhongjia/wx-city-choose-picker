@@ -1,9 +1,7 @@
 # wx-city-choose-picker
 封装微信小程序的三级联动地址选择器
 # 界面使用
-<!--
-  template is="addressPicker" data="{{provinceIndex:city.provinceIndex,cityIndex:city.cityIndex,districtIndex:city.districtIndex,province:city.province,city:city.city[city.selectedProvince],district:city.district[city.selectedCity]}}"
-  -->
+在wxml文件中有范例
 
 #page页调用
 &nbsp; var city = require("/city.js");<br>
