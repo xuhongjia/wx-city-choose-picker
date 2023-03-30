@@ -1,9 +1,9 @@
 # wx-city-choose-picker
-封装微信小程序的三级联动地址选择器
-# 界面使用
-在wxml文件中有范例
 
-#page页调用
+# 
+
+
+#page
 &nbsp; var city = require("/city.js");<br>
 &nbsp; Page({<br>
 &nbsp;&nbsp;data:{},<br>
